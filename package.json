@@ -1,5 +1,5 @@
 {
-  "name": "fake-fastlane",
+  "name": "@expo/traveling-fastlane-darwin",
   "version": "1.9.1000",
   "description": "",
   "main": "index.js",
